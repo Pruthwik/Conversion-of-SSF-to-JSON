@@ -53,7 +53,7 @@ def convert_conll_to_json(conll_sentences):
     return json_data
 
 
-def convert_conll_into_json_for_file(input_folder_path, output_folder_path):
+def convert_conll_into_json_for_files(input_folder_path, output_folder_path):
     """Convert CONLL files in the input folder to JSON format in the output folder."""
     for file_name in os.listdir(input_folder_path):
         input_file_path = os.path.join(input_folder_path, file_name)
@@ -80,7 +80,7 @@ def main():
     if not os.path.exists(output_folder_path):
         os.makedirs(output_folder_path)
     
-    convert_conll_into_json_for_file(input_folder_path, output_folder_path)
+    convert_conll_into_json_for_files(input_folder_path, output_folder_path)
 
 
 if __name__ == '__main__':
