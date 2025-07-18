@@ -1,0 +1,706 @@
+<document id="">
+<head>
+
+</head>
+<Sentence id='1'>
+1	((	NP	
+1.1	क्रांतिकारी	JJ	<fs af='क्रांतिकारी,adj,any,any,,d,,'>
+1.2	स्वाधीनता	N_NN	<fs af='स्वाधीनता,n,f,sg,3,d,0,0'>
+1.3	सेनानी	N_NN	<fs af='सेनानी,n,m,sg,3,d,0,0'>
+	))
+2	((	NP	
+2.1	शहीद	JJ	<fs af='शहीद,adj,any,any,,o,,'>
+2.2	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+2.3	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+2.4	का	PSP	<fs af='का,psp,m,sg,,,,'>
+	))
+3	((	NP	
+3.1	नाम	N_NN	<fs af='नाम,n,m,sg,3,d,0,0'>
+	))
+4	((	NP	
+4.1	भारतीय	JJ	<fs af='भारतीय,adj,any,any,,o,,'>
+4.2	आजादी	N_NN	<fs af='आजादी,n,f,sg,3,o,0,0'>
+4.3	के	PSP	<fs af='का,psp,m,sg,,o,,'>
+	))
+5	((	NP	
+5.1	इतिहास	N_NN	<fs af='इतिहास,n,m,sg,3,o,0,0'>
+5.2	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+6	((	NP	
+6.1	स्वर्णाक्षरों	N_NN	<fs af='स्वर्णाक्षर,n,m,pl,3,o,0,0'>
+6.2	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+7	((	JJP	
+7.1	अंकित	JJ	<fs af='अंकित,adj,any,any,,,,'>
+	))
+8	((	VGF	
+8.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+9	((	BLK	
+9.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='2'>
+1	((	NP	
+1.1	भारतीय	JJ	<fs af='भारतीय,adj,any,any,,o,,'>
+1.2	जनमानस	N_NN	<fs af='जनमानस,n,m,sg,3,o,0,0'>
+1.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+2	((	NP	
+2.1	उनकी	PR_PRP	<fs af='वह,pn,f,sg,3h,o,का,kA'>
+	))
+3	((	NP	
+3.1	छवि	N_NN	<fs af='छवि,n,f,sg,3,d,0,0'>
+	))
+4	((	NP	
+4.1	एक	QT_QTC	<fs af='एक,num,any,any,,any,,'>
+4.2	लोकप्रिय	JJ	<fs af='लोकप्रिय,adj,any,any,,o,,'>
+4.3	युवा	JJ	<fs af='युवा,adj,any,any,,o,,'>
+4.4	नेता	N_NN	<fs af='नेता,n,m,sg,3,o,0,0'>
+4.5	के	PSP	<fs af='के,psp,m,,,o,,'>
+4.6	रूप	PSP	<fs af='रूप,n,m,,,o,,'>
+4.7	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+5	((	JJP	
+5.1	अंकित	JJ	<fs af='अंकित,adj,any,any,,,,'>
+	))
+6	((	VGF	
+6.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+7	((	BLK	
+7.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='3'>
+1	((	NP	
+1.1	अपने	PR_PRF	<fs af='अपना,pn,m,sg,3,o,0,0'>
+	))
+2	((	NP	
+2.1	आठ	QT_QTC	<fs af='आठ,num,any,any,,any,,'>
+2.2	वर्ष	N_NN	<fs af='वर्ष,n,m,sg,3,o,0,0'>
+2.3	के	PSP	<fs af='का,psp,m,sg,,o,,'>
+	))
+3	((	NP	<fs af=',,,,,,,'>
+3.1	छोटे	JJ	<fs af='छोटा,adj,m,sg,,o,,'>
+3.2	से	RP_RPD	<fs af='सा,avy,m,sg,,,,'>
+3.3	राजनीतिक	JJ	<fs af='राजनीतिक,adj,any,any,,o,,'>
+3.4	-	RD_SYM	<fs af='-,punc,,,,,,'>
+3.5	सामाजिक	JJ	<fs af='सामाजिक,adj,any,any,,o,,'>
+3.6	जीवन	N_NN	<fs af='जीवन,n,m,sg,3,o,0,0'>
+3.7	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+4	((	NP	
+4.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+4.2	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+4.3	की	PSP	<fs af='का,psp,f,sg,,d,,'>
+	))
+5	((	NP	
+5.1	बौद्धिक	JJ	<fs af='बौद्धिक,adj,any,any,,d,,'>
+5.2	-	RD_SYM	<fs af='-,punc,,,,,,'>
+5.3	वैचारिक	JJ	<fs af='वैचारिक,adj,any,any,,d,,'>
+5.4	सक्रियता	N_NN	<fs af='सक्रियता,n,f,sg,3,d,0,0'>
+	))
+6	((	JJP	
+6.1	अभूतपूर्व	JJ	<fs af='अभूतपूर्व,adj,any,any,,,,'>
+	))
+7	((	VGF	
+7.1	रही	V_VM	<fs af='रह,v,f,sg,any,,या,yA'>
+	))
+8	((	BLK	
+8.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='4'>
+1	((	NP	
+1.1	हिंदी	N_NN	<fs af='हिंदी,n,f,sg,3,o,0,0'>
+1.2	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+2	((	NP	
+2.1	पंजाबी	N_NN	<fs af='पंजाबी,n,f,sg,3,o,0,0'>
+2.2	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+3	((	NP	
+3.1	उर्दू	N_NN	<fs af='उर्दू,n,f,sg,3,o,0,0'>
+	))
+4	((	CCP	
+4.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+5	((	NP	
+5.1	अंग्रेजी	N_NN	<fs af='अंग्रेजी,n,f,sg,3,o,0,0'>
+5.2	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+6	((	NP	
+6.1	उनका	PR_PRP	<fs af='वह,pn,m,sg,3h,o,का,kA'>
+	))
+7	((	NP	
+7.1	लेखन	N_NN	<fs af='लेखन,n,m,sg,3,d,0,0'>
+	))
+8	((	NP	
+8.1	उनकी	PR_PRP	<fs af='वह,pn,f,sg,3h,o,का,kA'>
+	))
+9	((	NP	
+9.1	अपूर्व	JJ	<fs af='अपूर्व,adj,any,any,,o,,'>
+9.2	बौद्धिक	JJ	<fs af='बौद्धिक,adj,any,any,,o,,'>
+9.3	प्रतिभा	N_NN	<fs af='प्रतिभा,n,f,sg,3,o,0,0'>
+	))
+10	((	CCP	
+10.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+11	((	NP	
+11.1	व्यापक	JJ	<fs af='व्यापक,adj,any,any,,o,,'>
+11.2	अध्ययनवृत्ति	N_NN	<fs af='अध्ययनवृत्ति,n,f,sg,3,o,0,0'>
+11.3	का	PSP	<fs af='का,psp,m,sg,,,,'>
+	))
+12	((	NP	
+12.1	परिचायक	N_NN	<fs af='परिचायक,n,m,sg,3,d,0,0'>
+	))
+13	((	VGF	
+13.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+14	((	BLK	
+14.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='5'>
+1	((	NP	<fs af=',,,,,,,'>
+1.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+1.2	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+1.3	के	PSP	<fs af='का,psp,m,sg,,o,,'>
+	))
+2	((	NP	<fs af=',,,,,,,'>
+2.1	सुहृद	JJ	<fs af='सुहृद,adj,any,any,,o,,'>
+2.2	अध्येता	N_NN	<fs af='अध्येता,n,m,sg,3,o,0,0'>
+	))
+3	((	CCP	
+3.1	एवं	CC_CCD	<fs af='एवं,avy,,,,,,'>
+	))
+4	((	NP	
+4.1	शोधकर्ता	N_NN	<fs af='शोधकर्ता,n,m,sg,3,o,0,0'>
+	))
+5	((	NP	
+5.1	प्रोफेसर	N_NN	<fs af='प्रोफेसर,n,m,sg,3,d,0,0'>
+5.2	चमन	N_NNP	<fs af='चमन,n,m,sg,3,d,0,0'>
+5.3	लाल	N_NNP	<fs af='लाल,n,m,sg,3,o,0,0'>
+5.4	ने	PSP	<fs af='ने,psp,,,,,,'>
+	))
+6	((	NP	
+6.1	बडे	JJ	<fs af='बडा,adj,m,sg,,o,,'>
+6.2	ही	RP_RPD	<fs af='ही,avy,,,,,,'>
+6.3	परिश्रम	N_NN	<fs af='परिश्रम,n,m,sg,3,o,0,0'>
+6.4	से	PSP	<fs af='से,psp,,,,,,'>
+	))
+7	((	NP	
+7.1	उनके	PR_PRP	<fs af='वह,pn,m,sg,3h,o,का,kA'>
+	))
+8	((	NP	
+8.1	लेखन	N_NN	<fs af='लेखन,n,m,sg,3,o,0,0'>
+8.2	को	PSP	<fs af='को,psp,,,,,,'>
+	))
+9	((	JJP	
+9.1	एकत्र	JJ	<fs af='एकत्र,adj,any,any,,,,'>
+	))
+10	((	CCP	
+10.1	एवं	CC_CCD	<fs af='एवं,avy,,,,,,'>
+	))
+11	((	JJP	
+11.1	संपादित	JJ	<fs af='संपादित,adj,any,any,,,,'>
+	))
+12	((	VGNF	
+12.1	कर	V_VM	<fs af='कर,v,,,,,0,0'>
+	))
+13	((	NP	
+13.1	हिंदी	N_NN	<fs af='हिंदी,n,f,sg,3,d,0,0'>
+13.2	पाठकों	N_NN	<fs af='पाठक,n,m,pl,3,o,0,0'>
+13.3	को	PSP	<fs af='को,psp,,,,,,'>
+	))
+14	((	JJP	
+14.1	उपलब्ध	JJ	<fs af='उपलब्ध,adj,any,any,,,,'>
+	))
+15	((	VGF	
+15.1	कराया	V_VM	<fs af='करा,v,m,sg,any,,या,yA'>
+15.2	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+16	((	BLK	
+16.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='6'>
+1	((	NP	
+1.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+1.2	सिंह	N_NNP	<fs af='सिंह,n,any,sg,3,o,0,0'>
+1.3	का	PSP	<fs af='का,psp,m,sg,,,,'>
+	))
+2	((	NP	
+2.1	यह	DM_DMD	<fs af='यह,pn,any,sg,3,d,,'>
+2.2	लेखन	N_NN	<fs af='लेखन,n,m,sg,3,d,0,0'>
+	))
+3	((	NP	
+3.1	“	RD_PUNC	<fs af='“,punc,,,,,,'>
+3.2	प्रकाशन	N_NN	<fs af='प्रकाशन,n,m,sg,3,d,0,0'>
+3.3	विभाग	N_NN	<fs af='विभाग,n,m,sg,3,o,0,0'>
+3.4	”	RD_PUNC	<fs af='”,punc,,,,,,'>
+	))
+4	((	CCP	
+4.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+5	((	NP	<fs af=',,,,,,,'>
+5.1	“	RD_PUNC	<fs af='“,punc,,,,,,'>
+5.2	सस्ता	JJ	<fs af='सस्ता,adj,m,sg,,d,,'>
+5.3	साहित्य	N_NN	<fs af='साहित्य,n,m,sg,3,d,0,0'>
+5.4	मंडल	N_NN	<fs af='मंडल,n,m,sg,3,d,0,0'>
+	))
+6	((	NP	
+6.1	प्रकाशन	N_NN	<fs af='प्रकाशन,n,m,sg,3,o,0,0'>
+6.2	'	RD_PUNC	<fs af='',punc,,,,,,'>
+6.3	की	PSP	<fs af='का,psp,f,sg,,o,,'>
+	))
+7	((	NP	
+7.1	संयुक्त	JJ	<fs af='संयुक्त,adj,any,any,,o,,'>
+7.2	प्रकाशन	N_NN	<fs af='प्रकाशन,n,m,sg,3,d,0,0'>
+7.3	योजना	N_NN	<fs af='योजना,n,f,sg,3,o,0,0'>
+7.4	के	PSP	<fs af='के,psp,,,,,,'>
+7.5	अंतर्गत	PSP	<fs af='अंतर्गत,psp,,,,,,'>
+	))
+8	((	NP	
+8.1	चार	QT_QTC	<fs af='चार,num,any,any,,any,,'>
+8.2	खंडों	N_NN	<fs af='खंडा,n,m,pl,3,o,0,0'>
+8.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+9	((	JJP	
+9.1	प्रकाशित	JJ	<fs af='प्रकाशित,adj,any,any,,,,'>
+	))
+10	((	VGF	
+10.1	किया	V_VM	<fs af='कर,v,m,sg,any,,या,yA'>
+10.2	गया	V_VAUX	<fs af='जा,v,m,sg,any,,या,yA'>
+10.3	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+11	((	BLK	
+11.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='7'>
+1	((	NP	
+1.1	पहले	QT_QTO	<fs af='पहला,num,m,sg,,any,,'>
+1.2	खंड	N_NN	<fs af='खंड,n,m,sg,3,o,0,0'>
+1.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+2	((	NP	
+2.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+2.2	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+2.3	के	PSP	<fs af='का,psp,m,pl,,d,,'>
+	))
+3	((	NP	
+3.1	पत्र	N_NN	<fs af='पत्र,n,m,pl,3,d,0,0'>
+3.2	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+4	((	NP	
+4.1	तार	N_NN	<fs af='तार,n,m,pl,3,d,0,0'>
+4.2	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+5	((	NP	
+5.1	पर्चे	N_NN	<fs af='पर्चा,n,m,pl,3,d,0,0'>
+	))
+6	((	CCP	
+6.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+7	((	NP	
+7.1	अदालती	JJ	<fs af='अदालती,adj,any,any,,d,,'>
+7.2	बयान	N_NN	<fs af='बयान,n,m,pl,3,d,0,0'>
+	))
+8	((	JJP	
+8.1	संकलित	JJ	<fs af='संकलित,adj,any,any,,,,'>
+	))
+9	((	VGF	
+9.1	हैं	V_VM	<fs af='है,v,any,pl,any,,एं,eM'>
+	))
+10	((	BLK	
+10.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='8'>
+1	((	NP	
+1.1	दूसरे	QT_QTO	<fs af='दूसरा,num,m,sg,,any,,'>
+1.2	खंड	N_NN	<fs af='खंड,n,m,sg,3,o,0,0'>
+1.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+2	((	NP	
+2.1	विभिन्न	JJ	<fs af='विभिन्न,adj,any,any,,o,,'>
+2.2	पत्र	N_NN	<fs af='पत्र,n,m,pl,3,d,0,0'>
+2.3	-	RD_SYM	<fs af='-,punc,,,,,,'>
+2.4	पत्रिकाओं	N_NN	<fs af='पत्रिका,n,f,pl,3,o,0,0'>
+2.5	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+3	((	VGNF	
+3.1	छपे	V_VM	<fs af='छप,v,m,pl,any,,या,yA'>
+	))
+4	((	NP	
+4.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+4.2	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+4.3	के	PSP	<fs af='का,psp,m,pl,,d,,'>
+	))
+5	((	NP	
+5.1	लेख	N_NN	<fs af='लेख,n,m,pl,3,d,0,0'>
+	))
+6	((	JJP	
+6.1	शामिल	JJ	<fs af='शामिल,adj,any,any,,,,'>
+	))
+7	((	VGF	
+7.1	किए	V_VM	<fs af='कर,v,m,pl,any,,या,yA'>
+7.2	गए	V_VAUX	<fs af='जा,v,m,pl,any,,या,yA'>
+7.3	हैं	V_VAUX	<fs af='है,v,any,pl,any,,एं,eM'>
+	))
+8	((	BLK	
+8.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='9'>
+1	((	NP	
+1.1	चौथे	QT_QTO	<fs af='चौथा,num,m,sg,,any,,'>
+1.2	खंड	N_NN	<fs af='खंड,n,m,sg,3,o,0,0'>
+1.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+2	((	NP	
+2.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+2.2	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+2.3	की	PSP	<fs af='का,psp,f,sg,,d,,'>
+	))
+3	((	NP	
+3.1	जेल	N_NN	<fs af='जेल,n,f,sg,3,d,0,0'>
+3.2	नोटबुक	N_NN	<fs af='नोटबुक,n,f,sg,3,d,0,0'>
+	))
+4	((	VGF	
+4.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+5	((	NP	
+5.1	जिसमें	PR_PRL	<fs af='जो,pn,any,sg,3,o,में,meM'>
+	))
+6	((	NP	
+6.1	1929	N_NNP	<fs af='1929,n,any,sg,3,d,0,0'>
+6.2	-	RD_SYM	<fs af='-,punc,,,,,,'>
+6.3	31	N_NNP	<fs af='31,n,any,sg,3,o,0,0'>
+6.4	के	PSP	<fs af='के,psp,,,,,,'>
+6.5	दौरान	N_NST	<fs af='दौरान,nst,m,sg,3,d,,'>
+	))
+7	((	NP	
+7.1	जेल	N_NN	<fs af='जेल,n,f,sg,3,o,0,0'>
+7.2	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+8	((	VGNF	
+8.1	पढ़ी	V_VM	<fs af='पढ़,v,f,pl,any,,या,yA'>
+8.2	गई	V_VAUX	<fs af='जा,v,f,pl,any,,या,yA'>
+	))
+9	((	NP	
+9.1	पुस्तकों	N_NN	<fs af='पुस्तक,n,f,pl,3,o,0,0'>
+9.2	से	PSP	<fs af='से,psp,,,,,,'>
+	))
+10	((	VGNF	
+10.1	लिए	V_VM	<fs af='लिए,v,m,pl,any,,या,yA'>
+10.2	गए	V_VAUX	<fs af='जा,v,m,pl,any,,या,yA'>
+	))
+11	((	NP	
+11.1	नोट्स	N_NN	<fs af='नोट,n,m,pl,3,o,0,0'>
+	))
+12	((	CCP	
+12.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+13	((	NP	
+13.1	उद्धरणों	N_NN	<fs af='उद्धरण,n,m,pl,3,o,0,0'>
+13.2	का	PSP	<fs af='का,psp,m,sg,,,,'>
+	))
+14	((	NP	
+14.1	हिंदी	N_NN	<fs af='हिंदी,n,f,sg,3,d,0,0'>
+14.2	अनुवाद	N_NN	<fs af='अनुवाद,n,m,sg,3,d,0,0'>
+	))
+15	((	VGF	
+15.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+16	((	BLK	
+16.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='10'>
+1	((	NP	
+1.1	इसके	PR_PRP	<fs af='यह,pn,any,sg,3,o,के,ke'>
+1.2	साथ	N_NST	<fs af='साथ,nst,m,sg,3,d,,'>
+1.3	ही	RP_RPD	<fs af='ही,avy,,,,,,'>
+	))
+2	((	NP	
+2.1	क्रांतिकारी	JJ	<fs af='क्रांतिकारी,adj,any,any,,o,,'>
+2.2	डॉन	N_NNP	<fs af='डॉन,n,m,sg,3,d,0,0'>
+2.3	ब्रीन	N_NNP	<fs af='ब्रीन,n,m,sg,3,o,0,0'>
+2.4	की	PSP	<fs af='का,psp,f,sg,,o,,'>
+	))
+3	((	NP	
+3.1	आत्मकथा	N_NN	<fs af='आत्मकथा,n,f,sg,3,o,0,0'>
+3.2	का	PSP	<fs af='का,psp,m,sg,,,,'>
+	))
+4	((	NP	
+4.1	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+4.2	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,o,0,0'>
+4.3	द्वारा	PSP	<fs af='द्वारा,psp,,,,,,'>
+	))
+5	((	VGNF	
+5.1	किया	V_VM	<fs af='कर,v,m,sg,any,,या,yA'>
+5.2	गया	V_VAUX	<fs af='जा,v,m,sg,any,,या,yA'>
+	))
+6	((	NP	
+6.1	अनुवाद	N_NN	<fs af='अनुवाद,n,m,sg,3,d,0,0'>
+6.2	भी	RP_RPD	<fs af='भी,avy,,,,,,'>
+	))
+7	((	NP	
+7.1	इस	DM_DMD	<fs af='यह,pn,any,sg,3,o,,'>
+7.2	खंड	N_NN	<fs af='खंड,n,m,sg,3,o,0,0'>
+7.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+8	((	JJP	
+8.1	प्रस्तुत	JJ	<fs af='प्रस्तुत,adj,any,any,,,,'>
+	))
+9	((	VGF	
+9.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+10	((	BLK	
+10.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='11'>
+1	((	NP	
+1.1	क्रांतिकारी	N_NN	<fs af='क्रांतिकारी,n,m,sg,3,o,0,0'>
+1.2	के	PSP	<fs af='का,psp,m,sg,,o,,'>
+	))
+2	((	JJP	
+2.1	वैयक्तिक	JJ	<fs af='वैयक्तिक,adj,any,any,,o,,'>
+2.2	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+3	((	JJP	
+3.1	राजनीतिक	JJ	<fs af='राजनीतिक,adj,any,any,,o,,'>
+3.2	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+4	((	JJP	
+4.1	सामाजिक	JJ	<fs af='सामाजिक,adj,any,any,,o,,'>
+	))
+5	((	CCP	
+5.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+6	((	JJP	
+6.1	बौद्धिक	JJ	<fs af='बौद्धिक,adj,any,any,,o,,'>
+	))
+7	((	NP	
+7.1	जीवन	N_NN	<fs af='जीवन,n,m,sg,3,o,0,0'>
+7.2	की	PSP	<fs af='का,psp,f,sg,,o,,'>
+	))
+8	((	NP	
+8.1	अंतरंगता	N_NN	<fs af='अंतरंगता,n,f,sg,3,o,0,0'>
+8.2	को	PSP	<fs af='को,psp,,,,,,'>
+	))
+9	((	JJP	
+9.1	उद्घाटित	JJ	<fs af='उद्घाटित,adj,any,any,,,,'>
+	))
+10	((	VGNF	
+10.1	करते	V_VM	<fs af='कर,v,m,pl,any,,ता,wA'>
+	))
+11	((	NP	
+11.1	ये	DM_DMD	<fs af='यह,pn,any,pl,3,d,,'>
+11.2	दस्तावेज	N_NN	<fs af='दस्तावेज,n,m,pl,3,d,0,0'>
+	))
+12	((	NP	
+12.1	स्वाधीनता	N_NN	<fs af='स्वाधीनता,n,f,sg,3,d,0,0'>
+12.2	संग्राम	N_NN	<fs af='संग्राम,n,m,sg,3,o,0,0'>
+12.3	का	PSP	<fs af='का,psp,m,sg,,d,,'>
+	))
+13	((	VGNF	<fs af=',,,,,,,'>
+13.1	दहकता	V_VM	<fs af='दहक,v,m,sg,3,,ता,wA'>
+	))
+14	((	NP	
+14.1	इतिहास	N_NN	<fs af='इतिहास,n,m,sg,3,d,0,0'>
+	))
+15	((	VGF	
+15.1	हैं	V_VM	<fs af='है,v,any,pl,any,,एं,eM'>
+	))
+16	((	NP	
+16.1	जिसे	PR_PRL	<fs af='जो,pn,any,sg,3,o,को,ko'>
+	))
+17	((	VGNN	
+17.1	पढ़ना	V_VM	<fs af='पढ़,v,any,any,any,d,ना,nA'>
+	))
+18	((	CCP	
+18.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+19	((	VGNN	
+19.1	जानना	V_VM	<fs af='जान,v,any,any,any,d,ना,nA'>
+	))
+20	((	NP	
+20.1	आज	N_NN	<fs af='आज,n,m,sg,3,o,0,0'>
+20.2	के	PSP	<fs af='का,psp,m,sg,,o,,'>
+	))
+21	((	NP	
+21.1	पाठक	N_NN	<fs af='पाठक,n,m,sg,3,o,0,0'>
+21.2	की	PSP	<fs af='का,psp,f,sg,,d,,'>
+	))
+22	((	NP	
+22.1	बुनियादी	JJ	<fs af='बुनियादी,adj,any,any,,d,,'>
+22.2	जरूरत	N_NN	<fs af='जरूरत,n,f,sg,3,d,0,0'>
+	))
+23	((	VGF	
+23.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+24	((	CCP	
+24.1	ताकि	CC_CCD	<fs af='ताकि,avy,,,,,,'>
+	))
+25	((	NP	
+25.1	वह	PR_PRP	<fs af='वह,pn,any,sg,3,d,0,0'>
+	))
+26	((	NP	
+26.1	अपनी	PR_PRF	<fs af='अपना,pn,f,pl,3,o,0,0'>
+	))
+27	((	NP	
+27.1	जड़ों	N_NN	<fs af='जड़,n,f,pl,3,o,0,0'>
+27.2	से	PSP	<fs af='से,psp,,,,,,'>
+27.3	,	RD_PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+28	((	NP	
+28.1	अपनी	PR_PRF	<fs af='अपना,pn,f,sg,3,o,0,0'>
+	))
+29	((	NP	
+29.1	परंपरा	N_NN	<fs af='परंपरा,n,f,sg,3,o,0,0'>
+29.2	से	PSP	<fs af='से,psp,,,,,,'>
+	))
+30	((	VGF	
+30.1	जुड़	V_VM	<fs af='जुड़,v,any,any,any,,0,0'>
+30.2	सके	V_VAUX	<fs af='सक,v,any,sg,3,,ए,e'>
+	))
+31	((	CCP	
+31.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+32	((	NP	
+32.1	अपने	PR_PRF	<fs af='अपना,pn,m,sg,3,o,0,0'>
+	))
+33	((	NP	
+33.1	वर्तमान	N_NN	<fs af='वर्तमान,n,m,sg,3,o,0,0'>
+33.2	को	PSP	<fs af='को,psp,,,,,,'>
+	))
+34	((	VGF	
+34.1	समझ	V_VM	<fs af='समझ,v,any,any,any,,0,0'>
+34.2	सके	V_VAUX	<fs af='सक,v,any,sg,3,,ए,e'>
+	))
+35	((	BLK	
+35.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='12'>
+1	((	NP	
+1.1	ये	DM_DMD	<fs af='यह,pn,any,pl,3,d,,'>
+1.2	चारों	QT_QTC	<fs af='चार,num,any,pl,,any,,'>
+1.3	खंड	N_NN	<fs af='खंड,n,m,pl,3,d,0,0'>
+	))
+2	((	NP	<fs af=',,,,,,,'>
+2.1	एक	N_NN	<fs af='एक,pn,m,sg,3,d,0,0'>
+2.2	-	RD_SYM	<fs af='-,punc,,,,,,'>
+2.3	दूसरे	N_NN	<fs af='दूसरा,pn,m,sg,3,o,0,0'>
+2.4	से	PSP	<fs af='से,psp,,,,,,'>
+	))
+3	((	JJP	
+3.1	स्वतंत्र	JJ	<fs af='स्वतंत्र,adj,any,any,,,,'>
+	))
+4	((	VGF	
+4.1	हैं	V_VM	<fs af='है,v,any,pl,any,,एं,eM'>
+	))
+5	((	CCP	
+5.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+6	((	JJP	
+6.1	संबद्ध	JJ	<fs af='संबद्ध,adj,any,any,,,,'>
+6.2	भी	RP_RPD	<fs af='भी,avy,,,,,,'>
+	))
+7	((	BLK	
+7.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='13'>
+1	((	NP	
+1.1	इन्हें	PR_PRP	<fs af='यह,pn,any,pl,3,o,को,ko'>
+	))
+2	((	NP	
+2.1	अलग	JJ	<fs af='अलग,adj,any,any,,d,,'>
+2.2	-	RD_SYM	<fs af='-,punc,,,,,,'>
+2.3	अलग	JJ	<fs af='अलग,adj,any,any,,o,,'>
+2.4	पुस्तक	N_NN	<fs af='पुस्तक,n,f,sg,3,o,0,0'>
+2.5	के	PSP	<fs af='के,psp,m,,,o,,'>
+2.6	रूप	PSP	<fs af='रूप,n,m,,,o,,'>
+2.7	में	PSP	<fs af='में,psp,,,,,,'>
+2.8	भी	RP_RPD	<fs af='भी,avy,,,,,,'>
+	))
+3	((	VGF	
+3.1	पढ़ा	V_VM	<fs af='पढ़,v,m,sg,any,,या,yA'>
+3.2	जा	V_VAUX	<fs af='जा,v,any,any,any,,0,0'>
+3.3	सकता	V_VAUX	<fs af='सक,v,m,sg,any,,ता,wA'>
+3.4	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+4	((	CCP	
+4.1	और	CC_CCD	<fs af='और,avy,,,,,,'>
+	))
+5	((	RBP	
+5.1	सिलसिलेवार	RB	<fs af='सिलसिलेवार,adv,,,,,,'>
+	))
+6	((	NP	
+6.1	संबद्ध	JJ	<fs af='संबद्ध,adj,any,any,,o,,'>
+6.2	दस्तावेजों	N_NN	<fs af='दस्तावेज,n,m,pl,3,o,0,0'>
+6.3	के	PSP	<fs af='के,psp,m,,,o,,'>
+6.4	रूप	PSP	<fs af='रूप,n,m,,,o,,'>
+6.5	में	PSP	<fs af='में,psp,,,,,,'>
+6.6	भी	RP_RPD	<fs af='भी,avy,,,,,,'>
+	))
+7	((	BLK	
+7.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id='14'>
+1	((	NP	
+1.1	“	RD_PUNC	<fs af='“,punc,,,,,,'>
+1.2	भगत	N_NNP	<fs af='भगत,n,m,sg,3,d,0,0'>
+1.3	सिंह	N_NNP	<fs af='सिंह,n,m,sg,3,d,0,0'>
+1.4	:	RD_SYM	<fs af=':,punc,,,,,,'>
+	))
+2	((	NP	
+2.1	अद्वितीय	JJ	<fs af='अद्वितीय,adj,any,any,,d,,'>
+2.2	व्यक्तित्व	N_NN	<fs af='व्यक्तित्व,n,m,sg,3,d,0,0'>
+2.3	'	RD_PUNC	<fs af='',punc,,,,,,'>
+	))
+3	((	NP	
+3.1	शीर्षक	N_NN	<fs af='शीर्षक,n,m,sg,3,d,0,0'>
+	))
+4	((	NP	
+4.1	संपादक	N_NN	<fs af='संपादक,n,m,sg,3,o,0,0'>
+4.2	की	PSP	<fs af='का,psp,f,sg,,d,,'>
+	))
+5	((	NP	
+5.1	भूमिका	N_NN	<fs af='भूमिका,n,f,sg,3,d,0,0'>
+	))
+6	((	NP	
+6.1	प्रथम	QT_QTO	<fs af='प्रथम,num,any,any,,any,,'>
+6.2	खंड	N_NN	<fs af='खंड,n,m,sg,3,o,0,0'>
+6.3	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+7	((	VGF	
+7.1	दी	V_VM	<fs af='दे,v,f,sg,any,,या,yA'>
+7.2	गई	V_VAUX	<fs af='जा,v,f,sg,any,,या,yA'>
+7.3	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE'>
+	))
+8	((	BLK	
+8.1	।	RD_PUNC	<fs af='।,punc,,,,,,'>
+	))
+</Sentence>
+
+</document>

@@ -1,0 +1,2319 @@
+[
+    [
+        {
+            "index": 1,
+            "token": "क्रांतिकारी",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "क्रांतिकारी,adj,any,any,,d,,"
+        },
+        {
+            "index": 2,
+            "token": "स्वाधीनता",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "स्वाधीनता,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 3,
+            "token": "सेनानी",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "सेनानी,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 4,
+            "token": "शहीद",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "शहीद,adj,any,any,,o,,"
+        },
+        {
+            "index": 5,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 6,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 7,
+            "token": "का",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,,,"
+        },
+        {
+            "index": 8,
+            "token": "नाम",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "नाम,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 9,
+            "token": "भारतीय",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "भारतीय,adj,any,any,,o,,"
+        },
+        {
+            "index": 10,
+            "token": "आजादी",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "आजादी,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 11,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,o,,"
+        },
+        {
+            "index": 12,
+            "token": "इतिहास",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "इतिहास,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 13,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 14,
+            "token": "स्वर्णाक्षरों",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "स्वर्णाक्षर,n,m,pl,3,o,0,0"
+        },
+        {
+            "index": 15,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 16,
+            "token": "अंकित",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "अंकित,adj,any,any,,,,"
+        },
+        {
+            "index": 17,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 18,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "भारतीय",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "भारतीय,adj,any,any,,o,,"
+        },
+        {
+            "index": 2,
+            "token": "जनमानस",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "जनमानस,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 3,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 4,
+            "token": "उनकी",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "वह,pn,f,sg,3h,o,का,kA"
+        },
+        {
+            "index": 5,
+            "token": "छवि",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "छवि,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 6,
+            "token": "एक",
+            "pos": "QT_QTC",
+            "chunk": "B-NP",
+            "morph": "एक,num,any,any,,any,,"
+        },
+        {
+            "index": 7,
+            "token": "लोकप्रिय",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "लोकप्रिय,adj,any,any,,o,,"
+        },
+        {
+            "index": 8,
+            "token": "युवा",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "युवा,adj,any,any,,o,,"
+        },
+        {
+            "index": 9,
+            "token": "नेता",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "नेता,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 10,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "के,psp,m,,,o,,"
+        },
+        {
+            "index": 11,
+            "token": "रूप",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "रूप,n,m,,,o,,"
+        },
+        {
+            "index": 12,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 13,
+            "token": "अंकित",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "अंकित,adj,any,any,,,,"
+        },
+        {
+            "index": 14,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 15,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "अपने",
+            "pos": "PR_PRF",
+            "chunk": "B-NP",
+            "morph": "अपना,pn,m,sg,3,o,0,0"
+        },
+        {
+            "index": 2,
+            "token": "आठ",
+            "pos": "QT_QTC",
+            "chunk": "B-NP",
+            "morph": "आठ,num,any,any,,any,,"
+        },
+        {
+            "index": 3,
+            "token": "वर्ष",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "वर्ष,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 4,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,o,,"
+        },
+        {
+            "index": 5,
+            "token": "छोटे",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "छोटा,adj,m,sg,,o,,"
+        },
+        {
+            "index": 6,
+            "token": "से",
+            "pos": "RP_RPD",
+            "chunk": "I-NP",
+            "morph": "सा,avy,m,sg,,,,"
+        },
+        {
+            "index": 7,
+            "token": "राजनीतिक",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "राजनीतिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 8,
+            "token": "-",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": "-,punc,,,,,,"
+        },
+        {
+            "index": 9,
+            "token": "सामाजिक",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "सामाजिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 10,
+            "token": "जीवन",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "जीवन,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 11,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 12,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 13,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 14,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,d,,"
+        },
+        {
+            "index": 15,
+            "token": "बौद्धिक",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "बौद्धिक,adj,any,any,,d,,"
+        },
+        {
+            "index": 16,
+            "token": "-",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": "-,punc,,,,,,"
+        },
+        {
+            "index": 17,
+            "token": "वैचारिक",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "वैचारिक,adj,any,any,,d,,"
+        },
+        {
+            "index": 18,
+            "token": "सक्रियता",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "सक्रियता,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 19,
+            "token": "अभूतपूर्व",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "अभूतपूर्व,adj,any,any,,,,"
+        },
+        {
+            "index": 20,
+            "token": "रही",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "रह,v,f,sg,any,,या,yA"
+        },
+        {
+            "index": 21,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "हिंदी",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "हिंदी,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 2,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 3,
+            "token": "पंजाबी",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "पंजाबी,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 4,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 5,
+            "token": "उर्दू",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "उर्दू,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 6,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 7,
+            "token": "अंग्रेजी",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "अंग्रेजी,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 8,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 9,
+            "token": "उनका",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "वह,pn,m,sg,3h,o,का,kA"
+        },
+        {
+            "index": 10,
+            "token": "लेखन",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "लेखन,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 11,
+            "token": "उनकी",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "वह,pn,f,sg,3h,o,का,kA"
+        },
+        {
+            "index": 12,
+            "token": "अपूर्व",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "अपूर्व,adj,any,any,,o,,"
+        },
+        {
+            "index": 13,
+            "token": "बौद्धिक",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "बौद्धिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 14,
+            "token": "प्रतिभा",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "प्रतिभा,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 15,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 16,
+            "token": "व्यापक",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "व्यापक,adj,any,any,,o,,"
+        },
+        {
+            "index": 17,
+            "token": "अध्ययनवृत्ति",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "अध्ययनवृत्ति,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 18,
+            "token": "का",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,,,"
+        },
+        {
+            "index": 19,
+            "token": "परिचायक",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "परिचायक,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 20,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 21,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 2,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 3,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,o,,"
+        },
+        {
+            "index": 4,
+            "token": "सुहृद",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "सुहृद,adj,any,any,,o,,"
+        },
+        {
+            "index": 5,
+            "token": "अध्येता",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "अध्येता,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 6,
+            "token": "एवं",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "एवं,avy,,,,,,"
+        },
+        {
+            "index": 7,
+            "token": "शोधकर्ता",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "शोधकर्ता,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 8,
+            "token": "प्रोफेसर",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "प्रोफेसर,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 9,
+            "token": "चमन",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "चमन,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 10,
+            "token": "लाल",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "लाल,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 11,
+            "token": "ने",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "ने,psp,,,,,,"
+        },
+        {
+            "index": 12,
+            "token": "बडे",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "बडा,adj,m,sg,,o,,"
+        },
+        {
+            "index": 13,
+            "token": "ही",
+            "pos": "RP_RPD",
+            "chunk": "I-NP",
+            "morph": "ही,avy,,,,,,"
+        },
+        {
+            "index": 14,
+            "token": "परिश्रम",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "परिश्रम,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 15,
+            "token": "से",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "से,psp,,,,,,"
+        },
+        {
+            "index": 16,
+            "token": "उनके",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "वह,pn,m,sg,3h,o,का,kA"
+        },
+        {
+            "index": 17,
+            "token": "लेखन",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "लेखन,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 18,
+            "token": "को",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "को,psp,,,,,,"
+        },
+        {
+            "index": 19,
+            "token": "एकत्र",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "एकत्र,adj,any,any,,,,"
+        },
+        {
+            "index": 20,
+            "token": "एवं",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "एवं,avy,,,,,,"
+        },
+        {
+            "index": 21,
+            "token": "संपादित",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "संपादित,adj,any,any,,,,"
+        },
+        {
+            "index": 22,
+            "token": "कर",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "कर,v,,,,,0,0"
+        },
+        {
+            "index": 23,
+            "token": "हिंदी",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "हिंदी,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 24,
+            "token": "पाठकों",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "पाठक,n,m,pl,3,o,0,0"
+        },
+        {
+            "index": 25,
+            "token": "को",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "को,psp,,,,,,"
+        },
+        {
+            "index": 26,
+            "token": "उपलब्ध",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "उपलब्ध,adj,any,any,,,,"
+        },
+        {
+            "index": 27,
+            "token": "कराया",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "करा,v,m,sg,any,,या,yA"
+        },
+        {
+            "index": 28,
+            "token": "है",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 29,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 2,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,any,sg,3,o,0,0"
+        },
+        {
+            "index": 3,
+            "token": "का",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,,,"
+        },
+        {
+            "index": 4,
+            "token": "यह",
+            "pos": "DM_DMD",
+            "chunk": "B-NP",
+            "morph": "यह,pn,any,sg,3,d,,"
+        },
+        {
+            "index": 5,
+            "token": "लेखन",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "लेखन,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 6,
+            "token": "“",
+            "pos": "RD_PUNC",
+            "chunk": "B-NP",
+            "morph": "“,punc,,,,,,"
+        },
+        {
+            "index": 7,
+            "token": "प्रकाशन",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "प्रकाशन,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 8,
+            "token": "विभाग",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "विभाग,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 9,
+            "token": "”",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "”,punc,,,,,,"
+        },
+        {
+            "index": 10,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 11,
+            "token": "“",
+            "pos": "RD_PUNC",
+            "chunk": "B-NP",
+            "morph": "“,punc,,,,,,"
+        },
+        {
+            "index": 12,
+            "token": "सस्ता",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "सस्ता,adj,m,sg,,d,,"
+        },
+        {
+            "index": 13,
+            "token": "साहित्य",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "साहित्य,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 14,
+            "token": "मंडल",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "मंडल,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 15,
+            "token": "प्रकाशन",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "प्रकाशन,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 16,
+            "token": "'",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "',,,,,,,"
+        },
+        {
+            "index": 17,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,o,,"
+        },
+        {
+            "index": 18,
+            "token": "संयुक्त",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "संयुक्त,adj,any,any,,o,,"
+        },
+        {
+            "index": 19,
+            "token": "प्रकाशन",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "प्रकाशन,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 20,
+            "token": "योजना",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "योजना,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 21,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "के,psp,,,,,,"
+        },
+        {
+            "index": 22,
+            "token": "अंतर्गत",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "अंतर्गत,psp,,,,,,"
+        },
+        {
+            "index": 23,
+            "token": "चार",
+            "pos": "QT_QTC",
+            "chunk": "B-NP",
+            "morph": "चार,num,any,any,,any,,"
+        },
+        {
+            "index": 24,
+            "token": "खंडों",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंडा,n,m,pl,3,o,0,0"
+        },
+        {
+            "index": 25,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 26,
+            "token": "प्रकाशित",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "प्रकाशित,adj,any,any,,,,"
+        },
+        {
+            "index": 27,
+            "token": "किया",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "कर,v,m,sg,any,,या,yA"
+        },
+        {
+            "index": 28,
+            "token": "गया",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "जा,v,m,sg,any,,या,yA"
+        },
+        {
+            "index": 29,
+            "token": "है",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 30,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "पहले",
+            "pos": "QT_QTO",
+            "chunk": "B-NP",
+            "morph": "पहला,num,m,sg,,any,,"
+        },
+        {
+            "index": 2,
+            "token": "खंड",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंड,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 3,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 4,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 5,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 6,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,pl,,d,,"
+        },
+        {
+            "index": 7,
+            "token": "पत्र",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "पत्र,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 8,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 9,
+            "token": "तार",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "तार,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 10,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 11,
+            "token": "पर्चे",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "पर्चा,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 12,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 13,
+            "token": "अदालती",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "अदालती,adj,any,any,,d,,"
+        },
+        {
+            "index": 14,
+            "token": "बयान",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "बयान,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 15,
+            "token": "संकलित",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "संकलित,adj,any,any,,,,"
+        },
+        {
+            "index": 16,
+            "token": "हैं",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,pl,any,,एं,eM"
+        },
+        {
+            "index": 17,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "दूसरे",
+            "pos": "QT_QTO",
+            "chunk": "B-NP",
+            "morph": "दूसरा,num,m,sg,,any,,"
+        },
+        {
+            "index": 2,
+            "token": "खंड",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंड,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 3,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 4,
+            "token": "विभिन्न",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "विभिन्न,adj,any,any,,o,,"
+        },
+        {
+            "index": 5,
+            "token": "पत्र",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "पत्र,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 6,
+            "token": "-",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": "-,punc,,,,,,"
+        },
+        {
+            "index": 7,
+            "token": "पत्रिकाओं",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "पत्रिका,n,f,pl,3,o,0,0"
+        },
+        {
+            "index": 8,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 9,
+            "token": "छपे",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "छप,v,m,pl,any,,या,yA"
+        },
+        {
+            "index": 10,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 11,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 12,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,pl,,d,,"
+        },
+        {
+            "index": 13,
+            "token": "लेख",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "लेख,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 14,
+            "token": "शामिल",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "शामिल,adj,any,any,,,,"
+        },
+        {
+            "index": 15,
+            "token": "किए",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "कर,v,m,pl,any,,या,yA"
+        },
+        {
+            "index": 16,
+            "token": "गए",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "जा,v,m,pl,any,,या,yA"
+        },
+        {
+            "index": 17,
+            "token": "हैं",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "है,v,any,pl,any,,एं,eM"
+        },
+        {
+            "index": 18,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "चौथे",
+            "pos": "QT_QTO",
+            "chunk": "B-NP",
+            "morph": "चौथा,num,m,sg,,any,,"
+        },
+        {
+            "index": 2,
+            "token": "खंड",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंड,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 3,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 4,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 5,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 6,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,d,,"
+        },
+        {
+            "index": 7,
+            "token": "जेल",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "जेल,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 8,
+            "token": "नोटबुक",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "नोटबुक,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 9,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 10,
+            "token": "जिसमें",
+            "pos": "PR_PRL",
+            "chunk": "B-NP",
+            "morph": "जो,pn,any,sg,3,o,में,meM"
+        },
+        {
+            "index": 11,
+            "token": "1929",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "1929,n,any,sg,3,d,0,0"
+        },
+        {
+            "index": 12,
+            "token": "-",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": "-,punc,,,,,,"
+        },
+        {
+            "index": 13,
+            "token": "31",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "31,n,any,sg,3,o,0,0"
+        },
+        {
+            "index": 14,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "के,psp,,,,,,"
+        },
+        {
+            "index": 15,
+            "token": "दौरान",
+            "pos": "N_NST",
+            "chunk": "I-NP",
+            "morph": "दौरान,nst,m,sg,3,d,,"
+        },
+        {
+            "index": 16,
+            "token": "जेल",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "जेल,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 17,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 18,
+            "token": "पढ़ी",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "पढ़,v,f,pl,any,,या,yA"
+        },
+        {
+            "index": 19,
+            "token": "गई",
+            "pos": "V_VAUX",
+            "chunk": "I-VGNF",
+            "morph": "जा,v,f,pl,any,,या,yA"
+        },
+        {
+            "index": 20,
+            "token": "पुस्तकों",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "पुस्तक,n,f,pl,3,o,0,0"
+        },
+        {
+            "index": 21,
+            "token": "से",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "से,psp,,,,,,"
+        },
+        {
+            "index": 22,
+            "token": "लिए",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "लिए,v,m,pl,any,,या,yA"
+        },
+        {
+            "index": 23,
+            "token": "गए",
+            "pos": "V_VAUX",
+            "chunk": "I-VGNF",
+            "morph": "जा,v,m,pl,any,,या,yA"
+        },
+        {
+            "index": 24,
+            "token": "नोट्स",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "नोट,n,m,pl,3,o,0,0"
+        },
+        {
+            "index": 25,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 26,
+            "token": "उद्धरणों",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "उद्धरण,n,m,pl,3,o,0,0"
+        },
+        {
+            "index": 27,
+            "token": "का",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,,,"
+        },
+        {
+            "index": 28,
+            "token": "हिंदी",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "हिंदी,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 29,
+            "token": "अनुवाद",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "अनुवाद,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 30,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 31,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "इसके",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "यह,pn,any,sg,3,o,के,ke"
+        },
+        {
+            "index": 2,
+            "token": "साथ",
+            "pos": "N_NST",
+            "chunk": "I-NP",
+            "morph": "साथ,nst,m,sg,3,d,,"
+        },
+        {
+            "index": 3,
+            "token": "ही",
+            "pos": "RP_RPD",
+            "chunk": "I-NP",
+            "morph": "ही,avy,,,,,,"
+        },
+        {
+            "index": 4,
+            "token": "क्रांतिकारी",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "क्रांतिकारी,adj,any,any,,o,,"
+        },
+        {
+            "index": 5,
+            "token": "डॉन",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "डॉन,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 6,
+            "token": "ब्रीन",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "ब्रीन,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 7,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,o,,"
+        },
+        {
+            "index": 8,
+            "token": "आत्मकथा",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "आत्मकथा,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 9,
+            "token": "का",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,,,"
+        },
+        {
+            "index": 10,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "B-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 11,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 12,
+            "token": "द्वारा",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "द्वारा,psp,,,,,,"
+        },
+        {
+            "index": 13,
+            "token": "किया",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "कर,v,m,sg,any,,या,yA"
+        },
+        {
+            "index": 14,
+            "token": "गया",
+            "pos": "V_VAUX",
+            "chunk": "I-VGNF",
+            "morph": "जा,v,m,sg,any,,या,yA"
+        },
+        {
+            "index": 15,
+            "token": "अनुवाद",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "अनुवाद,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 16,
+            "token": "भी",
+            "pos": "RP_RPD",
+            "chunk": "I-NP",
+            "morph": "भी,avy,,,,,,"
+        },
+        {
+            "index": 17,
+            "token": "इस",
+            "pos": "DM_DMD",
+            "chunk": "B-NP",
+            "morph": "यह,pn,any,sg,3,o,,"
+        },
+        {
+            "index": 18,
+            "token": "खंड",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंड,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 19,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 20,
+            "token": "प्रस्तुत",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "प्रस्तुत,adj,any,any,,,,"
+        },
+        {
+            "index": 21,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 22,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "क्रांतिकारी",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "क्रांतिकारी,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 2,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,o,,"
+        },
+        {
+            "index": 3,
+            "token": "वैयक्तिक",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "वैयक्तिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 4,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-JJP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 5,
+            "token": "राजनीतिक",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "राजनीतिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 6,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-JJP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 7,
+            "token": "सामाजिक",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "सामाजिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 8,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 9,
+            "token": "बौद्धिक",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "बौद्धिक,adj,any,any,,o,,"
+        },
+        {
+            "index": 10,
+            "token": "जीवन",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "जीवन,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 11,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,o,,"
+        },
+        {
+            "index": 12,
+            "token": "अंतरंगता",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "अंतरंगता,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 13,
+            "token": "को",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "को,psp,,,,,,"
+        },
+        {
+            "index": 14,
+            "token": "उद्घाटित",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "उद्घाटित,adj,any,any,,,,"
+        },
+        {
+            "index": 15,
+            "token": "करते",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "कर,v,m,pl,any,,ता,wA"
+        },
+        {
+            "index": 16,
+            "token": "ये",
+            "pos": "DM_DMD",
+            "chunk": "B-NP",
+            "morph": "यह,pn,any,pl,3,d,,"
+        },
+        {
+            "index": 17,
+            "token": "दस्तावेज",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "दस्तावेज,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 18,
+            "token": "स्वाधीनता",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "स्वाधीनता,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 19,
+            "token": "संग्राम",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "संग्राम,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 20,
+            "token": "का",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,d,,"
+        },
+        {
+            "index": 21,
+            "token": "दहकता",
+            "pos": "V_VM",
+            "chunk": "B-VGNF",
+            "morph": "दहक,v,m,sg,3,,ता,wA"
+        },
+        {
+            "index": 22,
+            "token": "इतिहास",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "इतिहास,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 23,
+            "token": "हैं",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,pl,any,,एं,eM"
+        },
+        {
+            "index": 24,
+            "token": "जिसे",
+            "pos": "PR_PRL",
+            "chunk": "B-NP",
+            "morph": "जो,pn,any,sg,3,o,को,ko"
+        },
+        {
+            "index": 25,
+            "token": "पढ़ना",
+            "pos": "V_VM",
+            "chunk": "B-VGNN",
+            "morph": "पढ़,v,any,any,any,d,ना,nA"
+        },
+        {
+            "index": 26,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 27,
+            "token": "जानना",
+            "pos": "V_VM",
+            "chunk": "B-VGNN",
+            "morph": "जान,v,any,any,any,d,ना,nA"
+        },
+        {
+            "index": 28,
+            "token": "आज",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "आज,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 29,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,m,sg,,o,,"
+        },
+        {
+            "index": 30,
+            "token": "पाठक",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "पाठक,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 31,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,d,,"
+        },
+        {
+            "index": 32,
+            "token": "बुनियादी",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "बुनियादी,adj,any,any,,d,,"
+        },
+        {
+            "index": 33,
+            "token": "जरूरत",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "जरूरत,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 34,
+            "token": "है",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 35,
+            "token": "ताकि",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "ताकि,avy,,,,,,"
+        },
+        {
+            "index": 36,
+            "token": "वह",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "वह,pn,any,sg,3,d,0,0"
+        },
+        {
+            "index": 37,
+            "token": "अपनी",
+            "pos": "PR_PRF",
+            "chunk": "B-NP",
+            "morph": "अपना,pn,f,pl,3,o,0,0"
+        },
+        {
+            "index": 38,
+            "token": "जड़ों",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "जड़,n,f,pl,3,o,0,0"
+        },
+        {
+            "index": 39,
+            "token": "से",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "से,psp,,,,,,"
+        },
+        {
+            "index": 40,
+            "token": ",",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "COMMA,punc,,,,,,"
+        },
+        {
+            "index": 41,
+            "token": "अपनी",
+            "pos": "PR_PRF",
+            "chunk": "B-NP",
+            "morph": "अपना,pn,f,sg,3,o,0,0"
+        },
+        {
+            "index": 42,
+            "token": "परंपरा",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "परंपरा,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 43,
+            "token": "से",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "से,psp,,,,,,"
+        },
+        {
+            "index": 44,
+            "token": "जुड़",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "जुड़,v,any,any,any,,0,0"
+        },
+        {
+            "index": 45,
+            "token": "सके",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "सक,v,any,sg,3,,ए,e"
+        },
+        {
+            "index": 46,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 47,
+            "token": "अपने",
+            "pos": "PR_PRF",
+            "chunk": "B-NP",
+            "morph": "अपना,pn,m,sg,3,o,0,0"
+        },
+        {
+            "index": 48,
+            "token": "वर्तमान",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "वर्तमान,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 49,
+            "token": "को",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "को,psp,,,,,,"
+        },
+        {
+            "index": 50,
+            "token": "समझ",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "समझ,v,any,any,any,,0,0"
+        },
+        {
+            "index": 51,
+            "token": "सके",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "सक,v,any,sg,3,,ए,e"
+        },
+        {
+            "index": 52,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "ये",
+            "pos": "DM_DMD",
+            "chunk": "B-NP",
+            "morph": "यह,pn,any,pl,3,d,,"
+        },
+        {
+            "index": 2,
+            "token": "चारों",
+            "pos": "QT_QTC",
+            "chunk": "I-NP",
+            "morph": "चार,num,any,pl,,any,,"
+        },
+        {
+            "index": 3,
+            "token": "खंड",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंड,n,m,pl,3,d,0,0"
+        },
+        {
+            "index": 4,
+            "token": "एक",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "एक,pn,m,sg,3,d,0,0"
+        },
+        {
+            "index": 5,
+            "token": "-",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": "-,punc,,,,,,"
+        },
+        {
+            "index": 6,
+            "token": "दूसरे",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "दूसरा,pn,m,sg,3,o,0,0"
+        },
+        {
+            "index": 7,
+            "token": "से",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "से,psp,,,,,,"
+        },
+        {
+            "index": 8,
+            "token": "स्वतंत्र",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "स्वतंत्र,adj,any,any,,,,"
+        },
+        {
+            "index": 9,
+            "token": "हैं",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "है,v,any,pl,any,,एं,eM"
+        },
+        {
+            "index": 10,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 11,
+            "token": "संबद्ध",
+            "pos": "JJ",
+            "chunk": "B-JJP",
+            "morph": "संबद्ध,adj,any,any,,,,"
+        },
+        {
+            "index": 12,
+            "token": "भी",
+            "pos": "RP_RPD",
+            "chunk": "I-JJP",
+            "morph": "भी,avy,,,,,,"
+        },
+        {
+            "index": 13,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "इन्हें",
+            "pos": "PR_PRP",
+            "chunk": "B-NP",
+            "morph": "यह,pn,any,pl,3,o,को,ko"
+        },
+        {
+            "index": 2,
+            "token": "अलग",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "अलग,adj,any,any,,d,,"
+        },
+        {
+            "index": 3,
+            "token": "-",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": "-,punc,,,,,,"
+        },
+        {
+            "index": 4,
+            "token": "अलग",
+            "pos": "JJ",
+            "chunk": "I-NP",
+            "morph": "अलग,adj,any,any,,o,,"
+        },
+        {
+            "index": 5,
+            "token": "पुस्तक",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "पुस्तक,n,f,sg,3,o,0,0"
+        },
+        {
+            "index": 6,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "के,psp,m,,,o,,"
+        },
+        {
+            "index": 7,
+            "token": "रूप",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "रूप,n,m,,,o,,"
+        },
+        {
+            "index": 8,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 9,
+            "token": "भी",
+            "pos": "RP_RPD",
+            "chunk": "I-NP",
+            "morph": "भी,avy,,,,,,"
+        },
+        {
+            "index": 10,
+            "token": "पढ़ा",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "पढ़,v,m,sg,any,,या,yA"
+        },
+        {
+            "index": 11,
+            "token": "जा",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "जा,v,any,any,any,,0,0"
+        },
+        {
+            "index": 12,
+            "token": "सकता",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "सक,v,m,sg,any,,ता,wA"
+        },
+        {
+            "index": 13,
+            "token": "है",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 14,
+            "token": "और",
+            "pos": "CC_CCD",
+            "chunk": "B-CCP",
+            "morph": "और,avy,,,,,,"
+        },
+        {
+            "index": 15,
+            "token": "सिलसिलेवार",
+            "pos": "RB",
+            "chunk": "B-RBP",
+            "morph": "सिलसिलेवार,adv,,,,,,"
+        },
+        {
+            "index": 16,
+            "token": "संबद्ध",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "संबद्ध,adj,any,any,,o,,"
+        },
+        {
+            "index": 17,
+            "token": "दस्तावेजों",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "दस्तावेज,n,m,pl,3,o,0,0"
+        },
+        {
+            "index": 18,
+            "token": "के",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "के,psp,m,,,o,,"
+        },
+        {
+            "index": 19,
+            "token": "रूप",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "रूप,n,m,,,o,,"
+        },
+        {
+            "index": 20,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 21,
+            "token": "भी",
+            "pos": "RP_RPD",
+            "chunk": "I-NP",
+            "morph": "भी,avy,,,,,,"
+        },
+        {
+            "index": 22,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ],
+    [
+        {
+            "index": 1,
+            "token": "“",
+            "pos": "RD_PUNC",
+            "chunk": "B-NP",
+            "morph": "“,punc,,,,,,"
+        },
+        {
+            "index": 2,
+            "token": "भगत",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "भगत,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 3,
+            "token": "सिंह",
+            "pos": "N_NNP",
+            "chunk": "I-NP",
+            "morph": "सिंह,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 4,
+            "token": ":",
+            "pos": "RD_SYM",
+            "chunk": "I-NP",
+            "morph": ":,punc,,,,,,"
+        },
+        {
+            "index": 5,
+            "token": "अद्वितीय",
+            "pos": "JJ",
+            "chunk": "B-NP",
+            "morph": "अद्वितीय,adj,any,any,,d,,"
+        },
+        {
+            "index": 6,
+            "token": "व्यक्तित्व",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "व्यक्तित्व,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 7,
+            "token": "'",
+            "pos": "RD_PUNC",
+            "chunk": "I-NP",
+            "morph": "',,,,,,,"
+        },
+        {
+            "index": 8,
+            "token": "शीर्षक",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "शीर्षक,n,m,sg,3,d,0,0"
+        },
+        {
+            "index": 9,
+            "token": "संपादक",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "संपादक,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 10,
+            "token": "की",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "का,psp,f,sg,,d,,"
+        },
+        {
+            "index": 11,
+            "token": "भूमिका",
+            "pos": "N_NN",
+            "chunk": "B-NP",
+            "morph": "भूमिका,n,f,sg,3,d,0,0"
+        },
+        {
+            "index": 12,
+            "token": "प्रथम",
+            "pos": "QT_QTO",
+            "chunk": "B-NP",
+            "morph": "प्रथम,num,any,any,,any,,"
+        },
+        {
+            "index": 13,
+            "token": "खंड",
+            "pos": "N_NN",
+            "chunk": "I-NP",
+            "morph": "खंड,n,m,sg,3,o,0,0"
+        },
+        {
+            "index": 14,
+            "token": "में",
+            "pos": "PSP",
+            "chunk": "I-NP",
+            "morph": "में,psp,,,,,,"
+        },
+        {
+            "index": 15,
+            "token": "दी",
+            "pos": "V_VM",
+            "chunk": "B-VGF",
+            "morph": "दे,v,f,sg,any,,या,yA"
+        },
+        {
+            "index": 16,
+            "token": "गई",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "जा,v,f,sg,any,,या,yA"
+        },
+        {
+            "index": 17,
+            "token": "है",
+            "pos": "V_VAUX",
+            "chunk": "I-VGF",
+            "morph": "है,v,any,sg,3,,है,hE"
+        },
+        {
+            "index": 18,
+            "token": "।",
+            "pos": "RD_PUNC",
+            "chunk": "B-BLK",
+            "morph": "।,punc,,,,,,"
+        }
+    ]
+]

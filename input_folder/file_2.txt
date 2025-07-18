@@ -1,0 +1,96 @@
+<document id="">
+<head>
+
+</head>
+<Sentence id='1'>
+1	((	NP	
+1.1	योजना	N_NN	<fs af='योजना,n,f,sg,3,d,0,0'>
+1.2	:	RD_SYM	<fs af=':,punc,,,,,,'>
+	))
+2	((	NP	
+2.1	विकास	N_NN	<fs af='विकास,n,m,sg,3,o,0,0'>
+2.2	को	PSP	<fs af='को,psp,,,,,,'>
+	))
+3	((	JJP	
+3.1	समर्पित	JJ	<fs af='समर्पित,adj,any,any,,d,,'>
+	))
+4	((	NP	
+4.1	मासिक	N_NN	<fs af='मासिक,n,m,sg,3,d,0,0'>
+	))
+</Sentence>
+
+<Sentence id='2'>
+1	((	NP	
+1.1	लोक	N_NN	<fs af='लोक,n,m,sg,3,d,0,0'>
+1.2	प्रशासन	N_NN	<fs af='प्रशासन,n,m,sg,3,d,0,0'>
+	))
+</Sentence>
+
+<Sentence id='3'>
+1	((	NP	
+1.1	प्रमुख	JJ	<fs af='प्रमुख,adj,any,any,,d,,'>
+1.2	आलेख	N_NN	<fs af='आलेख,n,m,sg,3,d,0,0'>
+1.3	-	RD_SYM	<fs af='-,punc,,,,,,'>
+	))
+2	((	NP	
+2.1	भारतीय	JJ	<fs af='भारतीय,adj,any,any,,d,,'>
+2.2	प्रशासन	N_NN	<fs af='प्रशासन,n,m,sg,3,d,0,0'>
+2.3	तंत्र	N_NN	<fs af='तंत्र,n,m,sg,3,d,0,0'>
+2.4	:	RD_SYM	<fs af=':,punc,,,,,,'>
+	))
+3	((	NP	
+3.1	प्रोफेसर	N_NN	<fs af='प्रोफेसर,n,m,sg,3,d,0,0'>
+3.2	श्रीकृष्ण	N_NNP	<fs af='श्रीकृष्ण,n,m,sg,3,d,0,0'>
+3.3	देव	N_NNP	<fs af='देव,n,m,sg,3,d,0,0'>
+3.4	राव	N_NNP	<fs af='राव,n,any,sg,3,d,0,0'>
+	))
+</Sentence>
+
+<Sentence id='4'>
+1	((	NP	
+1.1	विशेष	JJ	<fs af='विशेष,adj,any,any,,d,,'>
+1.2	आलेख	N_NN	<fs af='आलेख,n,m,sg,3,d,0,0'>
+1.3	-	RD_SYM	<fs af='-,punc,,,,,,'>
+	))
+2	((	NP	
+2.1	शासन	N_NN	<fs af='शासन,n,m,sg,3,o,0,0'>
+2.2	में	PSP	<fs af='में,psp,,,,,,'>
+	))
+3	((	NP	
+3.1	ईमानदारी	N_NN	<fs af='ईमानदारी,n,f,sg,3,d,0,0'>
+3.2	:	RD_SYM	<fs af=':,punc,,,,,,'>
+	))
+4	((	NP	
+4.1	मीनाक्षी	N_NNP	<fs af='मीनाक्षी,n,f,sg,3,d,0,0'>
+4.2	गुप्ता	N_NNP	<fs af='गुप्ता,n,any,sg,3,d,0,0'>
+	))
+</Sentence>
+
+<Sentence id='5'>
+1	((	NP	
+1.1	फोकस	N_NN	<fs af='फोकस,n,m,sg,3,d,0,0'>
+1.2	-	RD_SYM	<fs af='-,punc,,,,,,'>
+	))
+2	((	NP	
+2.1	भारतीय	JJ	<fs af='भारतीय,adj,any,any,,d,,'>
+2.2	विदेश	N_NN	<fs af='विदेश,n,m,sg,3,d,0,0'>
+2.3	सेवा	N_NN	<fs af='सेवा,n,f,sg,3,d,0,0'>
+2.4	:	RD_SYM	<fs af=':,punc,,,,,,'>
+	))
+3	((	RBP	
+3.1	निरंतर	RB	<fs af='निरंतर,adv,,,,,,'>
+	))
+4	((	NP	
+4.1	उत्कृष्टता	N_NN	<fs af='उत्कृष्टता,n,f,sg,3,o,0,0'>
+4.2	की	PSP	<fs af='का,psp,f,,,o,,'>
+4.3	ओर	N_NST	<fs af='ओर,nst,f,sg,3,d,,'>
+4.4	:	RD_SYM	<fs af=':,punc,,,,,,'>
+	))
+5	((	NP	
+5.1	हर्ष	N_NNP	<fs af='हर्ष,n,m,sg,3,d,0,0'>
+5.2	वी.	N_NNP	<fs af='वी.,n,m,sg,3,d,0,0'>
+5.3	पंत	N_NNP	<fs af='पंत,n,any,sg,3,d,0,0'>
+	))
+</Sentence>
+
+</document>
